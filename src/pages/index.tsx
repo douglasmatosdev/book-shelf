@@ -1,3 +1,4 @@
+import Link from 'next/link'
 
 import { data } from "@/utils";
 
@@ -25,8 +26,12 @@ export default function Home() {
       <footer className="flex justify-center fixed bottom-0 items-center w-[100%] pb-4" >
 
         <div className="flex justify-between items-center w-80">
-          <a href="/policy-of-privacy">Policy of privacy</a>
-          <a href="/terms-of-user">Terms of User</a>
+          <Link href={`/policy-of-privacy`}>
+            Policy of privacy
+          </Link>
+          <Link href={`/terms-of-user`}>
+            Terms of User
+          </Link>
         </div>
       </footer>
     </main>
