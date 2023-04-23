@@ -59,7 +59,7 @@ export default function TermOfUser() {
       <h2>3. Isenção de responsabilidade</h2>
       <ol>
         <li>
-          Os materiais no site da Book Shelf são fornecidos 'como estão'. Book
+          Os materiais no site da Book Shelf são fornecidos como estão. Book
           Shelf não oferece garantias, expressas ou implícitas, e, por este
           meio, isenta e nega todas as outras garantias, incluindo, sem
           limitação, garantias implícitas ou condições de comercialização,
@@ -68,7 +68,7 @@ export default function TermOfUser() {
         </li>
         <li>
           Além disso, o Book Shelf não garante ou faz qualquer representação
-          relativa à precisão, aos resultados prováveis ​​ou à confiabilidade do
+          relativa à precisão, aos resultados prováveis ou à confiabilidade do
           uso dos materiais em seu site ou de outra forma relacionado a esses
           materiais ou em sites vinculados a este site.
         </li>
